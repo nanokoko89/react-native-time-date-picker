@@ -9,15 +9,15 @@ We highly encourage you to add new translations. Please follow the steps below:
 ```ts
 export default {
     dayNames: [
-        "Monday",
-        "Tuesday",
+        "Thứ hai",
+        "Thứ 3",
         "Wednesday",
         "Thursday",
         "Friday",
         "Saturday",
         "Sunday",
     ],
-    dayNamesShort: ["Mo", "Tu", "We", "Th", "Fr", "Sa", "Su"],
+    dayNamesShort: ["Hai", "Tu", "We", "Th", "Fr", "Sa", "Su"],
     monthNames: [
         "January",
         "February",
